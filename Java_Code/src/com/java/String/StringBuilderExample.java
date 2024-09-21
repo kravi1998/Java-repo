@@ -14,7 +14,8 @@ public class StringBuilderExample {
 		StringBuilder builder = new StringBuilder("Hello");
 		System.out.println(builder);
 		builder.append(" World");
-		System.out.println(builder);
+		System.out.println(builder); 
+				
 		
 	}
 

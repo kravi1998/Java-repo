@@ -17,7 +17,6 @@ public class StringExample {
 		System.out.println("Contains : "+str3.contains("Hell"));
 		System.out.println("Equals Method :"+str3.equals(str2));
 		System.out.println("Upparcase :"+str3.toUpperCase());
-		System.out.println("Split : "+str3.split(" "));
 		
 
 	}
